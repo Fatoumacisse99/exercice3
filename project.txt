@@ -1,0 +1,5 @@
+Étape 1 : Planification
+Étape 2 : Recherche
+Étape 3 : Développement
+Étape 4 : Test
+Étape 5 : Déploiement
