@@ -1,5 +1,4 @@
-Étape 1 : Planification initial
-Étape 2 : Recherche approfondie
-
-Étape 4 : Test unitaire
-Étape 5 : Documentation
+Étape 1 : Planification complete
+Étape 3 : Développement agile
+Étape 4 : Test fonctionnel 
+Étape 5 : Analyse post-déploiement
